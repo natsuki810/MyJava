@@ -1,6 +1,6 @@
 public class Lesson10 {
     public static void main(String[] args) {
-        int age = 0;
+        int age = 20;
 
         if (age >= 20){
             System.out.println("adult");
